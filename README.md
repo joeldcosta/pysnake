@@ -26,3 +26,8 @@ Group4 - https://www.facebook.com/groups/pythonsnake3
 Group5 - https://www.facebook.com/groups/pythonsnake4
 
 Group6 - https://www.facebook.com/groups/pythonsnake5
+
+
+Telegram Channel - https://t.me/pysnake
+
+Telegram Group - https://t.me/pythonsnake
